@@ -39,7 +39,8 @@ void draw() {
    rotateY(PI/2);
   translate(height/4, 0, -height/4);
   Serpinski(0, 0, width/6);
-  */
+
+*/
 }
 
 void spin(int one, int two, int thr){
