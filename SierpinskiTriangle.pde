@@ -5,7 +5,7 @@ void setup() {
 }
 
 void draw() {
-  background(0);
+  /* background(0);
   fill(0);
   noStroke();
   translate(width/2, height/2, 0); 
@@ -39,6 +39,7 @@ void draw() {
    rotateY(PI/2);
   translate(height/4, 0, -height/4);
   Serpinski(0, 0, width/6);
+  */
 }
 
 void spin(int one, int two, int thr){
