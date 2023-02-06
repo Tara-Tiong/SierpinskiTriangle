@@ -17,7 +17,7 @@ void draw() {
   
   //bottom face
   //rectMode(CENTER);
- /* rotateX(PI/2);
+  rotateX(PI/2);
   translate(0, -height/4, -height/4);
   Serpinski(0, 0, width/6);
   
@@ -39,7 +39,6 @@ void draw() {
    rotateY(PI/2);
   translate(height/4, 0, -height/4);
   Serpinski(0, 0, width/6);
-*/
 }
 
 void spin(int one, int two, int thr){
