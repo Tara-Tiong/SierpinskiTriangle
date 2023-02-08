@@ -1,6 +1,6 @@
 int drag= 0;
 void setup() {
-  size(400, 400, P3D);
+  size(300, 300, P3D);
  // frameRate(60);
 }
 
